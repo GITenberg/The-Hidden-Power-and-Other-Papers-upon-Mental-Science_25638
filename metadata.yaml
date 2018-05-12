@@ -1,0 +1,28 @@
+_repo: The-Hidden-Power-and-Other-Papers-upon-Mental-Science_25638
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Troward, T. (Thomas)
+    alias: Troward, Thomas
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '3487'
+    url: http://www.gutenberg.org/2009/agents/3487
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Troward
+description: ''
+gutenberg_issued: '2008-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'New Thought'
+title: The Hidden Power, and Other Papers upon Mental Science
+url: http://www.gutenberg.org/ebooks/25638
